@@ -1,2 +1,2 @@
 # hello_world
-This is a sample repo
+This is a sample repository for tutorial purpose.......
